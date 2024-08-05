@@ -7,7 +7,7 @@ IT,S A POWERFUL DDOS ATTACK TOOL
     pkg update && upgrade
     pkg install git
     pkg install nodejs-lts  
-    rm -rf TBB-DDOS
+    rm -rf BCT
     git clone https://github.com/Blackcyberteam-admin/BLACK-CYBER-TEAM..git
     cd TBB-DDOS
     npm i requests
