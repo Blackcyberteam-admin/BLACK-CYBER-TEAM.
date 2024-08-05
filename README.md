@@ -9,7 +9,7 @@ IT,S A POWERFUL DDOS ATTACK TOOL
     pkg install nodejs-lts  
     rm -rf BCT
     git clone https://github.com/Blackcyberteam-admin/BLACK-CYBER-TEAM..git
-    cd TBB-DDOS
+    cd BCT
     npm i requests
     npm i https-proxy-agent
     npm i crypto-random-string
